@@ -1,5 +1,4 @@
-🦟 MalariaAI-Scope🔬
-# 🦟 MalariaAI: Advanced Deep Learning for Medical Image Analysis
+# 🦟 MalariaAI-Scope🔬: Advanced Deep Learning for Medical Image Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Computer%20Vision-green.svg)](https://pytorch.org/)
