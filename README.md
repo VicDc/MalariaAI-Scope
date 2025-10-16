@@ -13,7 +13,7 @@
 This project was developed as a portfolio demonstration of the skills acquired in computer vision, data engineering, and production-ready machine learning systems.
 
 ---
-*‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️
+‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️
 > ⚠️ **Note**: This project is the result of collaborative work where all team members 
 contributed equally to this AWS learning opportunity. Thanks to all team members for the collaborative spirit, knowledge sharing, and collective effort that made this project successful:
 
@@ -25,6 +25,7 @@ contributed equally to this AWS learning opportunity. Thanks to all team members
 **The source code repository is currently **private** and under active development. This README serves as a portfolio showcase of the project architecture, methodologies, and skills demonstrated. For inquiries about code access or collaboration opportunities, please reach out via the contact section below.**
 
 ‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️
+
 ---
 
 ## ✨ Key Skills Acquired
