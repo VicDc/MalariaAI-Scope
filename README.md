@@ -55,7 +55,7 @@ The project is structured in a modular and scalable workflow:
 
 ```
 notebooks/
-├── 1. Analysis & Debugging         # Exploratory data analysis
+├── 1. Analysis & Debugging        # Exploratory data analysis
 ├── 2. Data Preparation            # Data standardization & preprocessing
 ├── 3. Model Training              # Model training & optimization
 └── 4. Results Evaluation          # Evaluation & visualization
