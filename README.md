@@ -27,7 +27,7 @@ contributed equally to this AWS learning opportunity. Thanks to all team members
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️️
 
 ---
-
+![Script Interface](https://github.com/VicDc/MalariaAI-Scope/blob/9466f4752755fbb860227dc5e8652b34fdc92ed4/malarIA_scope%20repo.png)
 ## ✨ Key Skills Acquired
 
 ### 🎯 Computer Vision & Deep Learning
