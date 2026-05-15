@@ -16,9 +16,9 @@ This project was developed as a portfolio demonstration of the skills acquired i
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️️
 >  **Note**: This project is the result of collaborative work where all team members 
 contributed equally to this AWS learning opportunity. Thanks to all team members for the collaborative spirit, knowledge sharing, and collective effort that made this project successful:
-
-- 🔬 [@silvia](https://github.com/) - **Silvia Garavaglia**
-- 🔬 [@ania](https://github.com/) - **Ania Jaca**
+- 🔬 [@Vicio]([https://github.com/](https://github.com/VicDc)) - **Vicio Di Cara**
+- 🔬 [@silvia]([https://github.com/](https://github.com/silviagara)) - **Silvia Garavaglia**
+- 🔬 [@ania]([https://github.com/](https://github.com/aniajaca)) - **Ania Jaca**
 - 🔬 [@salome](https://github.com/) - **Salome Bennet**
 - 🔬 [@ferdous](https://github.com/) - **Ferdous Miah**
 
